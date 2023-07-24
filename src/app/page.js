@@ -73,7 +73,6 @@ export default function RandomUserPage() {
             email={user.email}
           />
         ))}
-      ;
     </div>
   );
 }
